@@ -1,15 +1,18 @@
 {
-  "name": "jest-unit",
-  "version": "1.0.0",
-  "description": "",
-  "license": "ISC",
-  "author": "igorugor",
-  "type": "commonjs",
-  "main": "index.js",
-  "scripts": {
-    "test": "test"
-  },
-  "devDependencies": {
-    "jest": "^30.0.5"
-  }
+	"name": "jest-unit",
+	"version": "1.0.0",
+	"description": "",
+	"license": "ISC",
+	"type": "commonjs",
+	"author": "igorugor",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"devDependencies": {
+		"jest": "^30.0.5"
+	},
+	"dependencies": {
+		"axios": "^1.11.0"
+	}
 }
