@@ -1,0 +1,15 @@
+{
+  "name": "jest-unit",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "igorugor",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
